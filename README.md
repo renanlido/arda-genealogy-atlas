@@ -1,11 +1,23 @@
-# Atlas genealógico de Arda
+# Arda Genealogy Atlas
 
-[Abra o atlas no GitHub Pages](https://renanlido.github.io/linhagens-em-leitura/). A edição é gratuita para consulta e está disponível em português do Brasil, inglês, espanhol e alemão.
+English · [Português (Brasil)](docs/README.pt-BR.md) · [Español](docs/README.es.md) · [Deutsch](docs/README.de.md)
 
-O arquivo `index.html` também pode ser aberto diretamente no navegador. Use o mapa geral ou a árvore genealógica para explorar parentescos. O mapa dos reinos liga lugares a épocas, personagens e acontecimentos. Consulte as abas **Na tela**, **Índice e datas** e **Fontes e critérios** para as comparações, as datas e o recorte adotado.
+**[Explore the atlas](https://renanlido.github.io/arda-genealogy-atlas/)**
 
-## Créditos
+An independent, interactive reading companion to J. R. R. Tolkien’s *The Lord of the Rings* and the wider legendarium. It is free to browse and available in Brazilian Portuguese, English, Spanish, and German.
 
-Projeto independente. As obras literárias, os filmes e a série citados pertencem aos respectivos titulares. A aba **Fontes e critérios** reúne referências bibliográficas. Fichas e acontecimentos trazem fontes específicas.
+## Explore
 
-O atlas combina conferência literária, seleção de registros, normalização, correções editoriais, tradução e visualizações. Entre as fontes estão verbetes escritos por colaboradores do [Tolkien Gateway](https://tolkiengateway.net/), com referências aos verbetes nas fichas, e o [Tolkien Linked Data Platform](https://github.com/Irfan-Ullah-cs/tolkien-linked-data-platform#license), usado como fonte intermediária de dados estruturados. O Tolkien Gateway informa [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) para o conteúdo que produz, com [exceções indicadas em sua política](https://tolkiengateway.net/wiki/Tolkien_Gateway:Copyrights). Os termos das demais fontes se aplicam ao material que delas provém.
+- Select a character in the overview or family tree to highlight their ancestors and descendants. Pan and zoom to follow branches across the atlas.
+- Open a character’s life locations to see where they were born, lived, or died when the sources identify those places. The realms map shows the relevant age.
+- Use the index to check recorded deaths, depositions, and other outcomes. Open the screen tab to compare selected events in Tolkien’s works, the films, and the series.
+
+For offline use, download [index.html](index.html) and open it in a browser.
+
+## Sources and credits
+
+The atlas cites references by character and event. Its sources and methodology section explains the selection and how it handles uncertain relationships and dates. The atlas combines literary checking, editorial curation, localization, and visualization.
+
+Some structured records derive from [Tolkien Gateway](https://tolkiengateway.net/) through the [Tolkien Linked Data Platform](https://github.com/Irfan-Ullah-cs/tolkien-linked-data-platform#license). Tolkien Gateway credits its contributors and publishes its own content under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), subject to the exceptions in its [copyright policy](https://tolkiengateway.net/wiki/Tolkien_Gateway:Copyrights). The terms of each source apply to the material that comes from it.
+
+This is an independent project. Rights in the cited literary works, films, and series belong to their respective rights holders.
