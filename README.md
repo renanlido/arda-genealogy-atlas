@@ -1,7 +1,11 @@
-# Linhagens em leitura
+# Atlas genealógico de Arda
 
-Guia independente e gratuito de leitura de O Senhor dos Anéis. Reúne um recorte de relações familiares, datas literárias de referência e três comentários próprios sobre diferenças entre livros e adaptações. Use o seletor de personagens ou selecione uma ficha na árvore. As linhas tracejadas verticais indicam gerações omitidas.
+[Abra o atlas no GitHub Pages](https://renanlido.github.io/linhagens-em-leitura/). A edição é gratuita para consulta e está disponível em português do Brasil, inglês, espanhol e alemão.
 
-O site é estático. Abra `index.html` no navegador. A edição consultável está em [Linhagens em leitura](https://renanlido.github.io/linhagens-em-leitura/). Funciona em português, inglês, espanhol e alemão.
+O arquivo `index.html` também pode ser aberto diretamente no navegador. Use o mapa geral ou a árvore genealógica para explorar parentescos. O mapa dos reinos liga lugares a épocas, personagens e acontecimentos. Consulte as abas **Na tela**, **Índice e datas** e **Fontes e critérios** para as comparações, as datas e o recorte adotado.
 
-A página traz referências por ficha, referências bibliográficas e links para os titulares e distribuidores das obras discutidas. Projeto independente, sem vínculo com os titulares. Acesso gratuito para consulta. Os direitos sobre as obras e adaptações citadas pertencem aos respectivos titulares.
+## Créditos
+
+Projeto independente. As obras literárias, os filmes e a série citados pertencem aos respectivos titulares. A aba **Fontes e critérios** reúne referências bibliográficas. Fichas e acontecimentos trazem fontes específicas.
+
+O atlas combina conferência literária, seleção de registros, normalização, correções editoriais, tradução e visualizações. Entre as fontes estão verbetes escritos por colaboradores do [Tolkien Gateway](https://tolkiengateway.net/), com referências aos verbetes nas fichas, e o [Tolkien Linked Data Platform](https://github.com/Irfan-Ullah-cs/tolkien-linked-data-platform#license), usado como fonte intermediária de dados estruturados. O Tolkien Gateway informa [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) para o conteúdo que produz, com [exceções indicadas em sua política](https://tolkiengateway.net/wiki/Tolkien_Gateway:Copyrights). Os termos das demais fontes se aplicam ao material que delas provém.
