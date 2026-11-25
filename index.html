@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Guia independente de leitura com linhagens selecionadas de O Senhor dos Anéis e comentários sobre livros, filmes e série.">
+<meta name="color-scheme" content="dark">
+<title>Linhagens em leitura</title>
+<link rel="stylesheet" href="styles.css">
+<script src="conteudo.js" defer></script>
+<script src="camera.js" defer></script>
+<script src="guia.js" defer></script>
+</head>
+<body>
+<header class="masthead">
+<div class="shell masthead-inner">
+<a class="wordmark" href="#inicio"><span aria-hidden="true">◇</span> Linhagens em leitura</a>
+<nav aria-label="Navegação" id="nav">
+<a href="#diagrama" data-text="navegar"></a><a href="#leituras" data-text="leituras"></a><a href="#fontes" data-text="fontes"></a>
+</nav>
+<div class="language"><label for="language" data-text="idioma"></label><select id="language"><option value="pt-BR">Português</option><option value="en">English</option><option value="es">Español</option><option value="de">Deutsch</option></select></div>
+</div>
+</header>
+<main class="shell" id="inicio">
+<section class="intro">
+<div>
+<p class="subtitle" data-text="subtitulo"></p>
+<h1 data-text="titulo">Linhagens em leitura</h1>
+<p class="intro-copy" data-text="resumo">Guia independente de leitura, com linhagens selecionadas e comentários sobre livros, filmes e série.</p>
+</div>
+<div class="reading-key" aria-hidden="true"><span>Beren</span><b></b><span>Elrond</span><b></b><span>Arwen</span></div>
+</section>
+<noscript>Ative o JavaScript para explorar o diagrama. / Enable JavaScript to explore the diagram.</noscript>
+<section id="diagrama" class="atlas">
+<div class="atlas-head">
+<div><h2 data-text="diagrama"></h2><p class="hint" data-text="instrucoes"></p></div>
+<div class="controls">
+<div class="picker"><label for="person-picker" data-text="personagem"></label><select id="person-picker"></select></div>
+<div id="camera-tools" class="zoom" role="group" data-aria="controleZoom">
+<button type="button" data-camera="out" data-aria="menos">−</button><output data-aria="escala"></output><button type="button" data-camera="in" data-aria="mais">+</button><button type="button" data-camera="fit" data-text="enquadrar"></button>
+</div>
+</div>
+</div>
+<div class="atlas-body">
+<div>
+<div id="viewport" tabindex="0" role="region" aria-describedby="map-help" data-aria="mapa">
+<div id="world"><svg id="edges" width="1410" height="822" aria-hidden="true"></svg><div id="nodes"></div></div>
+</div>
+<p id="map-help" class="map-help" data-text="teclado"></p>
+<div class="legend"><span><i></i><span data-text="filiacao"></span></span><span><i class="dotted"></i><span data-text="lacuna"></span></span><span><i class="partner"></i><span data-text="uniao"></span></span></div>
+</div>
+<aside class="profile" aria-live="polite" id="profile"></aside>
+</div>
+</section>
+<section id="leituras" class="articles"><h2 data-text="leituras"></h2><p class="hint" data-text="spoiler"></p><div class="articles-grid" id="articles-grid"></div></section>
+<section id="fontes" class="references"><h2 data-text="fontes"></h2><p data-text="criterio"></p><ul id="references-list"></ul></section>
+</main>
+<footer class="shell footer"><p data-text="aviso"></p></footer>
+</body>
+</html>
